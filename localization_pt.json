@@ -26,4 +26,6 @@
 {"key":"endscreen_gacorns","value":"Nozes Douradas:"},
 {"key":"quit_to_menu","value":"Sair para o Menu"},
 {"key":"exit_game","value":"Fechar Jogo"},
-{"key":"verify_achievements","value":"Verificar Conquistas"}]}
+{"key":"verify_achievements","value":"Verificar Conquistas"},
+{"key":"settings_save_button","value":"salver"},
+{"key":"keybind_save","value":"salvar configuracoes"}]}
