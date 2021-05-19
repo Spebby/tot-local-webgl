@@ -26,4 +26,6 @@
 {"key":"endscreen_gacorns","value":"Zlote orzechy:"},
 {"key":"quit_to_menu","value":"wyjdz do menu"},
 {"key":"exit_game","value":"wyjdz z gry"},
-{"key":"verify_achievements","value":"Zweryfikuj Osiągniecia"}]}
+{"key":"verify_achievements","value":"Zweryfikuj Osiągniecia"},
+{"key":"settings_save_button","value":"Zapisz"},
+{"key":"keybind_save","value":"Zapisz ustawienia"}]}
