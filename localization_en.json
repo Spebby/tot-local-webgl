@@ -25,4 +25,5 @@
 {"key":"endscreen_time","value":"Time:"},
 {"key":"endscreen_gacorns","value":"Golden Acorns:"},
 {"key":"quit_to_menu","value":"quit to menu"},
-{"key":"exit_game","value":"exit game"}]}
+{"key":"exit_game","value":"exit game"},
+{"key":"verify_achievements","value":"Verify Achievements"}]}
