@@ -25,4 +25,5 @@
 "key":"endscreen_time","value":"Temps:"},
 {"key":"endscreen_gacorns","value":"Glands dores:"},
 {"key":"quit_to_menu","value":"Retour au menu"},
-{"key":"exit_game","value":"Quitter le jeu"}]}
+{"key":"exit_game","value":"Quitter le jeu"},
+{"key":"verify_achievements","value":"Verifier les medailles"}]}
