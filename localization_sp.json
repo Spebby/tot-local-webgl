@@ -27,5 +27,5 @@
 {"key":"quit_to_menu","value":"Salir al menu"},
 {"key":"exit_game","value":"Salir del juego"},
 {"key":"verify_achievements","value":"Verificar Logros"},
-{"key":"settings_save_button","value":"Guardar"},
+{"key":"pause_save_button","value":"Guardar"},
 {"key":"keybind_save","value":"Guardar configuraciones"}]}
