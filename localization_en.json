@@ -1,4 +1,6 @@
 {"items":[{"key":"start_buton","value":">Press Start<"},
+{"key":"continue_button","value":"Continue"},
+{"key":"new_game","value":"New Game"},
 {"key":"pause_menu_headertext","value":"-Pause-"},
 {"key":"pause_menu_resume","value":"Resume"},
 {"key":"pause_menu_options","value":"Settings"},
