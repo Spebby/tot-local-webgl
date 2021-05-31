@@ -1,4 +1,6 @@
 {"items":[{"key":"start_buton","value":">Tryck Start<"},
+{"key":"continue_button","value":"Fortsatt"},
+{"key":"new_game","value":"Ny Spel"},
 {"key":"pause_menu_headertext","value":"-Pausa-"},
 {"key":"pause_menu_resume","value":"Ateruppta"},
 {"key":"pause_menu_options","value":"Installningar"},
@@ -28,4 +30,5 @@
 {"key":"exit_game","value":"avsluta spelet"},
 {"key":"verify_achievements","value":"Verifera Achievements"},
 {"key":"pause_save_button","value":"spara"},
+{"key":"return_to_hub_button", "value":"Aterga Till Navet"},
 {"key":"keybind_save","value":"spara installningar"}]}
