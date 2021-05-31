@@ -18,7 +18,7 @@
 {"key":"settings_menu_reset","value":"resetta"},
 {"key":"settings_menu_backbutton","value":"Tillbaka"},
 {"key":"quit_notice_query","value":"Ar du saker?"},
-{"key":"quit_notice_whynot","value":"Dina framsteg kommer sparas inte."},
+{"key":"quit_notice_whynot","value":"Dina framsteg kommer att sparas."},
 {"key":"quit_notice_back","value":"Nej! Ga tillbaka."},
 {"key":"quit_notice_quit","value":"Ja, sluta."},
 {"key":"endscreen_title","value":"Spelet ar klart!"},
