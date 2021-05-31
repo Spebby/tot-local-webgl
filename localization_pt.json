@@ -18,7 +18,7 @@
 {"key":"settings_menu_reset","value":"Voltar ao padrao"},
 {"key":"settings_menu_backbutton","value":"Voltar"},
 {"key":"quit_notice_query","value":"Tem certeza?"},
-{"key":"quit_notice_whynot","value":"Seu progresso nao sera salvo."},
+{"key":"quit_notice_whynot","value":"Seu progresso sera salvo."},
 {"key":"quit_notice_back","value":"Nao! Voltar."},
 {"key":"quit_notice_quit","value":"Sim, sair."},
 {"key":"endscreen_title","value":"Jogo Completo!"},
