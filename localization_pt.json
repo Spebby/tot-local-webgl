@@ -1,4 +1,6 @@
 {"items":[{"key":"start_buton","value":">Aperte Start<"},
+{"key":"continue_button","value":"Continuar"},
+{"key":"new_game","value":"Novo Jogo"},
 {"key":"pause_menu_headertext","value":"-Pause-"},
 {"key":"pause_menu_resume","value":"Resumir"},
 {"key":"pause_menu_options","value":"Opcoes"},
@@ -28,4 +30,5 @@
 {"key":"exit_game","value":"Fechar Jogo"},
 {"key":"verify_achievements","value":"Verificar Conquistas"},
 {"key":"pause_save_button","value":"salver"},
+{"key":"return_to_hub_button", "value":"Voltar ao Hub"},
 {"key":"keybind_save","value":"salvar configuracoes"}]}
