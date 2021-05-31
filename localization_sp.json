@@ -18,7 +18,7 @@
 {"key":"settings_menu_reset","value":"Restablecer Ajustes"},
 {"key":"settings_menu_backbutton","value":"Volver"},
 {"key":"quit_notice_query","value":"Estas seguro?"},
-{"key":"quit_notice_whynot","value":"Tu progreso no se guardara."},
+{"key":"quit_notice_whynot","value":"Tu progreso sera guardara."},
 {"key":"quit_notice_back","value":"¡No! Volver."},
 {"key":"quit_notice_quit","value":"Si, dejame salir."},
 {"key":"endscreen_title","value":"¡Juego completado!"},
