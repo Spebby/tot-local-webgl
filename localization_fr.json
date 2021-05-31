@@ -18,7 +18,7 @@
 {"key":"settings_menu_reset","value":"Reinitialiser les options"},
 {"key":"settings_menu_backbutton","value":"Retour"},
 {"key":"quit_notice_query","value":"Etes-vous sur?"},
-{"key":"quit_notice_whynot","value":"Votre progression ne sera pas enregistree."},
+{"key":"quit_notice_whynot","value":"Votre progression sera enregistree."},
 {"key":"quit_notice_back","value":"Non! Retour."},
 {"key":"quit_notice_quit","value":"Oui, quitter."},
 {"key":"endscreen_title","value":"Jeu fini!"},
