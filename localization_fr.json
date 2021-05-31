@@ -1,4 +1,6 @@
 {"items":[{"key":"start_buton","value":">Appuyez sur Start<"},
+{"key":"continue_button","value":"Continuer"},
+{"key":"new_game","value":"Nouveau Jeu"},
 {"key":"pause_menu_headertext","value":"-Pause-"},
 {"key":"pause_menu_resume","value":"Reprendre"},
 {"key":"pause_menu_options","value":"Reglages"},
@@ -28,4 +30,5 @@
 {"key":"exit_game","value":"Quitter le jeu"},
 {"key":"verify_achievements","value":"Verifier les medailles"},
 {"key":"pause_save_button","value":"sauvegarder"},
+{"key":"return_to_hub_button", "value":"Retour au Hub"},
 {"key":"keybind_save","value":"enregister les options"}]}
